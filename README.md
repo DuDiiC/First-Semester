@@ -1,4 +1,5 @@
 # First-Semester
-Zadania na pracowni Podstaw Programowania. 
-Zadania pochodzą ze strony https://www.mat.umk.pl:8070/ZawodyWeb bądź też są zadaniami dodatkowo zadanymi przez prowadzącego ćwiczenia.
-Wszyskie programy napisane w języku C++ w standardzie 14, bez użycia OOP.
+
+Tasks from the laboratory: basics of programming.
+Tasks come from https://www.mat.umk.pl:8070/ZawodyWeb or they are additionally asked by the lecturer.
+I used the functional programing paradigm and the c++ 14 standard.

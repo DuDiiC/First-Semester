@@ -10,7 +10,10 @@ Learning the basics program in C ++:
 - functions
 - arrays
 - operations on strings
-- basic data structures - stack, queue, priority queue
+- basic data structures
+    > stack, 
+    > queue, 
+    > priority queue
 - input/output from file
 - sorting algorithms:
     > bubblesort, 
